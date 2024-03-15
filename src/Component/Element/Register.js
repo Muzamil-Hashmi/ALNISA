@@ -123,6 +123,9 @@ const Registration = () => {
         >
           Register
         </button>
+        <div className='text-center mt-2'>
+        <a href="Login">Login...</a>
+        </div>
       </form>
     </div>
     </div>
